@@ -1,3 +1,7 @@
+# Module 14 Completion Report
+
+## Backlog Contents
+```
 # Project Backlog: hello-genai Calculator
 
 ## Status Legend
@@ -41,3 +45,15 @@
 - All arithmetic operations must handle `float` inputs
 - Zero-division errors should raise `ValueError` with descriptive messages
 - External dependencies should be avoided unless strictly necessary
+```
+
+## GitHub Issues
+| Issue URL | Title | Created via MCP? |
+|-----------|-------|-----------------|
+| https://github.com/ganura-epam/hello-genai/issues/1 | Add unit tests for all calculator functions using pytest | Yes |
+| https://github.com/ganura-epam/hello-genai/issues/2 | Add CLI interface for interactive calculation in main.py | Yes |
+| https://github.com/ganura-epam/hello-genai/issues/3 | Set up CI/CD pipeline with GitHub Actions | Yes |
+
+## MCP Tools Used
+- create_issue
+- list_issues
