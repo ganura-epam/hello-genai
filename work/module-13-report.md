@@ -8,6 +8,13 @@
       "command": "npx -y @playwright/mcp@latest",
       "env": {},
       "args": []
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "[REDACTED]"
+      }
     }
   }
 }
@@ -15,6 +22,7 @@
 
 ## Configured Servers
 - Playwright
+- github
 
 ## MCP Tool Test
 - Tool used: browser_navigate
