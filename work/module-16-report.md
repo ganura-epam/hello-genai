@@ -2,21 +2,20 @@
 
 ## Node.js Version
 ```
-v26.4.0
+v26.7.0
 ```
 
 ## npm Version
 ```
-11.17.0
+11.19.0
 ```
 
 ## nvm Version
 ```
-nvm: command not found
-(nvm is not installed on this machine)
+v0.40.6
 ```
 
 ## Docker Version
 ```
-Docker version 29.2.0, build 0b9d198
+Docker version 29.7.2
 ```
